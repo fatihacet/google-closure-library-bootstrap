@@ -1,0 +1,3 @@
+goog.setCssNameMapping({
+  'container': 'a'
+});
